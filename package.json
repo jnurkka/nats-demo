@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ts-nats": "^1.2.15",
+    "ts-node": "^10.9.1"
+  }
+}
